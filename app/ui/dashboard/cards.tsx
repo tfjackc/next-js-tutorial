@@ -4,6 +4,7 @@ import {
   UserGroupIcon,
   InboxIcon,
 } from '@heroicons/react/24/outline';
+// @ts-ignore
 import { lusitana } from '@/app/ui/fonts';
 
 const iconMap = {
